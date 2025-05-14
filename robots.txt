@@ -8,4 +8,4 @@ User-agent: BadBot
 Disallow: /
 
 # Proveer la ubicación del sitemap
-Sitemap: https://esteticistaencali.cusig.co/sitemap.xml
+Sitemap: https://esteticistaencali.lidereslocales.com/sitemap.xml
